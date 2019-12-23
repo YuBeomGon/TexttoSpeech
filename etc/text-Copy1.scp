@@ -1,0 +1,675 @@
+male_speed_slow_pitch_m5_1 5 번 12 번 치수 절단 
+male_speed_slow_pitch_m5_2 22 번 24 번 보통처치 
+male_speed_slow_pitch_m5_3 30 번 5 번 진정처치 
+male_speed_slow_pitch_m5_4 1 번 5 번 치수 복조 
+male_speed_slow_pitch_m5_5 5 번 3 번 지각간단 
+male_speed_slow_pitch_m5_6 35 번 19 번 지각복잡 
+male_speed_slow_pitch_m5_7 9 번 33 번 응급근관처치 
+male_speed_slow_pitch_m5_8 34 번 14 번 충전 율연마 
+male_speed_slow_pitch_m5_9 33 번 20 번 파철편 제거 
+male_speed_slow_pitch_m5_10 3 번 23 번 발수 
+male_speed_slow_pitch_m5_11 29 번 8 번 근관 확대 
+male_speed_slow_pitch_m5_12 4 번 29 번 근관 성형 
+male_speed_slow_pitch_m5_13 38 번 4 번 근관 세척 
+male_speed_slow_pitch_m5_14 34 번 15 번 근관 장측정 
+male_speed_slow_pitch_m5_15 19 번 33 번 가압근충 
+male_speed_slow_pitch_m5_16 32 번 4 번 단순근충 
+male_speed_slow_pitch_m5_17 27 번 11 번 당일발수근충 
+male_speed_slow_pitch_m5_18 37 번 13 번 REENDO 
+male_speed_slow_pitch_m5_19 6 번 13 번 러버댐 
+male_speed_slow_pitch_m5_20 15 번 35 번 치석 제거 
+male_speed_slow_pitch_m5_21 31 번 21 번 부분 치석 제거 
+male_speed_slow_pitch_m5_22 20 번 32 번 치근활택 
+male_speed_slow_pitch_m5_23 21 번 2 번 치주소파 
+male_speed_slow_pitch_m5_24 3 번 35 번 후처치 
+male_speed_slow_pitch_m5_25 35 번 41 번 후처치 
+male_speed_slow_pitch_zero_1 18 번 3 번 봉합사 
+male_speed_slow_pitch_zero_2 13 번 24 번 보철 재부착 
+male_speed_slow_pitch_zero_3 32 번 33 번 보철 재부착 
+male_speed_slow_pitch_zero_4 21 번 41 번 교합조정 
+male_speed_slow_pitch_zero_5 26 번 38 번 교합조정 
+male_speed_slow_pitch_zero_6 15 번 34 번 구내염처치 
+male_speed_slow_pitch_zero_7 29 번 41 번 구내염처치 
+male_speed_slow_pitch_zero_8 35 번 7 번 발치 
+male_speed_slow_pitch_zero_9 22 번 34 번 난 발치 
+male_speed_slow_pitch_zero_10 16 번 10 번 단순매복 
+male_speed_slow_pitch_zero_11 24 번 21 번 단순매복 
+male_speed_slow_pitch_zero_12 8 번 4 번 복잡매목 
+male_speed_slow_pitch_zero_13 8 번 33 번 복잡매복 
+male_speed_slow_pitch_zero_14 21 번 29 번 완전매복 
+male_speed_slow_pitch_zero_15 2 번 35 번 완전매복 
+male_speed_slow_pitch_zero_16 37 번 17 번 드레싱 
+male_speed_slow_pitch_zero_17 9 번 6 번 소염술치은 
+male_speed_slow_pitch_zero_18 2 번 27 번 소염술치조 
+male_speed_slow_pitch_zero_19 11 번 5 번 치조골 셩형술 
+male_speed_slow_pitch_zero_20 41 번 26 번 치조골성형술 
+male_speed_slow_pitch_zero_21 26 번 12 번 약관절 촬영 
+male_speed_slow_pitch_zero_22 17 번 25 번 약관절 촬영 
+male_speed_slow_pitch_zero_23 30 번 37 번 치근단 
+male_speed_slow_pitch_zero_24 9 번 14 번 동시 2매 
+male_speed_slow_pitch_zero_25 31 번 37 번 파노라마 
+male_speed_slow_pitch_p5_1 16 번 6 번 교익 촬영 
+male_speed_slow_pitch_p5_2 16 번 37 번 교익 촬영 
+male_speed_slow_pitch_p5_3 5 번 33 번 CT촬영 
+male_speed_slow_pitch_p5_4 12 번 3 번 CT 촬영 
+male_speed_slow_pitch_p5_5 23 번 34 번 구강검진 
+male_speed_slow_pitch_p5_6 29 번 19 번 구강검진 
+male_speed_slow_pitch_p5_7 13 번 22 번 침윤 마취 
+male_speed_slow_pitch_p5_8 33 번 32 번 침윤 마취 
+male_speed_slow_pitch_p5_9 15 번 32 번 전달 마취 
+male_speed_slow_pitch_p5_10 9 번 20 번 전달 마취 
+male_speed_slow_pitch_p5_11 29 번 9 번 XRAY 
+male_speed_slow_pitch_p5_12 3 번 29 번 GI 충전 
+male_speed_slow_pitch_p5_13 27 번 35 번 SBS 방송국 
+male_speed_slow_pitch_p5_14 12 번 9 번 치은절제 
+male_speed_slow_pitch_p5_15 38 번 20 번 치은절제 
+male_speed_slow_pitch_p5_16 23 번 5 번 APF 
+male_speed_slow_pitch_p5_17 13 번 2 번 APF 골삭제 
+male_speed_slow_pitch_p5_18 21 번 16 번 충전 재 제거 
+male_speed_slow_pitch_p5_19 33 번 1 번 충전 재 제거 
+male_speed_slow_pitch_p5_20 25 번 24 번 인레이 
+male_speed_slow_pitch_p5_21 39 번 1 번 CR 제거 
+male_speed_slow_pitch_p5_22 7 번 19 번 CR제거 
+male_speed_slow_pitch_p5_23 7 번 24 번 포스트 제거 
+male_speed_slow_pitch_p5_24 36 번 25 번 포스트 제거 
+male_speed_slow_pitch_p5_25 41 번 8 번 홈메우기 
+male_speed_mid_pitch_m5_1 30 번 16 번 홈메우기 
+male_speed_mid_pitch_m5_2 31 번 23 번 치은절제 
+male_speed_mid_pitch_m5_3 34 번 1 번 치은절제 
+male_speed_mid_pitch_m5_4 20 번 28 번 치은판절제 
+male_speed_mid_pitch_m5_5 24 번 1 번 치은판절제 
+male_speed_mid_pitch_m5_6 7 번 35 번 EPT검사 
+male_speed_mid_pitch_m5_7 12 번 39 번 EPT 검사 
+male_speed_mid_pitch_m5_8 41 번 6 번 혈당검사 
+male_speed_mid_pitch_m5_9 39 번 30 번 혈당검사 
+male_speed_mid_pitch_m5_10 32 번 37 번 근 육주사 
+male_speed_mid_pitch_m5_11 28 번 18 번 근 육 주사 
+male_speed_mid_pitch_m5_12 9 번 26 번 임시접착 
+male_speed_mid_pitch_m5_13 41 번 17 번 임시접착 
+male_speed_mid_pitch_m5_14 41 번 39 번 영구 접착 
+male_speed_mid_pitch_m5_15 36 번 38 번 영구접착 
+male_speed_mid_pitch_m5_16 12 번 41 번 비급여 
+male_speed_mid_pitch_m5_17 19 번 16 번 비급여 
+male_speed_mid_pitch_m5_18 31 번 34 번 보철 물장착 
+male_speed_mid_pitch_m5_19 17 번 31 번 보철 물장착 
+male_speed_mid_pitch_m5_20 14 번 13 번 임플 FU 체크 
+male_speed_mid_pitch_m5_21 16 번 25 번 보철 FU 체크 
+male_speed_mid_pitch_m5_22 1 번 39 번 MTA 
+male_speed_mid_pitch_m5_23 37 번 26 번 구강 검사 
+male_speed_mid_pitch_m5_24 31 번 8 번 구강 검사 
+male_speed_mid_pitch_m5_25 30 번 32 번 치면 세균막검사 
+male_speed_mid_pitch_zero_1 32 번 16 번 치면 세균막검사 
+male_speed_mid_pitch_zero_2 25 번 22 번 세균막검사 
+male_speed_mid_pitch_zero_3 35 번 13 번 원외처방 
+male_speed_mid_pitch_zero_4 31 번 39 번 원외처방 
+male_speed_mid_pitch_zero_5 28 번 26 번 치관확장 
+male_speed_mid_pitch_zero_6 9 번 34 번 치관확장 
+male_speed_mid_pitch_zero_7 12 번 4 번 아목시실린 
+male_speed_mid_pitch_zero_8 10 번 13 번 오구멘틴 
+male_speed_mid_pitch_zero_9 28 번 41 번 로도질 
+male_speed_mid_pitch_zero_10 10 번 31 번 소아처방 
+male_speed_mid_pitch_zero_11 19 번 39 번 소아처방 
+male_speed_mid_pitch_zero_12 31 번 6 번 근이완제 
+male_speed_mid_pitch_zero_13 41 번 7 번 근이완제 
+male_speed_mid_pitch_zero_14 4 번 17 번 덴티스타 
+male_speed_mid_pitch_zero_15 9 번 25 번 치수 절단 
+male_speed_mid_pitch_zero_16 23 번 22 번 보통처치 
+male_speed_mid_pitch_zero_17 19 번 24 번 진정처치 
+male_speed_mid_pitch_zero_18 21 번 12 번 치수 복조 
+male_speed_mid_pitch_zero_19 12 번 19 번 지각간단 
+male_speed_mid_pitch_zero_20 13 번 8 번 지각복잡 
+male_speed_mid_pitch_zero_21 15 번 2 번 응급근관처치 
+male_speed_mid_pitch_zero_22 10 번 25 번 충전 율연마 
+male_speed_mid_pitch_zero_23 17 번 29 번 파철편 제거 
+male_speed_mid_pitch_zero_24 12 번 16 번 발수 
+male_speed_mid_pitch_zero_25 37 번 38 번 근관 확대 
+male_speed_mid_pitch_p5_1 21 번 30 번 근관 성형 
+male_speed_mid_pitch_p5_2 36 번 8 번 근관 세척 
+male_speed_mid_pitch_p5_3 36 번 1 번 근관 장측정 
+male_speed_mid_pitch_p5_4 6 번 25 번 가압근충 
+male_speed_mid_pitch_p5_5 28 번 6 번 단순근충 
+male_speed_mid_pitch_p5_6 29 번 2 번 당일발수근충 
+male_speed_mid_pitch_p5_7 11 번 37 번 REENDO 
+male_speed_mid_pitch_p5_8 8 번 16 번 러버댐 
+male_speed_mid_pitch_p5_9 4 번 26 번 치석 제거 
+male_speed_mid_pitch_p5_10 32 번 26 번 부분 치석 제거 
+male_speed_mid_pitch_p5_11 28 번 29 번 치근활택 
+male_speed_mid_pitch_p5_12 35 번 1 번 치주소파 
+male_speed_mid_pitch_p5_13 38 번 23 번 후처치 
+male_speed_mid_pitch_p5_14 37 번 3 번 후처치 
+male_speed_mid_pitch_p5_15 20 번 35 번 봉합사 
+male_speed_mid_pitch_p5_16 32 번 20 번 보철 재부착 
+male_speed_mid_pitch_p5_17 9 번 36 번 보철 재부착 
+male_speed_mid_pitch_p5_18 30 번 19 번 교합조정 
+male_speed_mid_pitch_p5_19 9 번 41 번 교합조정 
+male_speed_mid_pitch_p5_20 25 번 4 번 구내염처치 
+male_speed_mid_pitch_p5_21 8 번 23 번 구내염처치 
+male_speed_mid_pitch_p5_22 35 번 21 번 발치 
+male_speed_mid_pitch_p5_23 33 번 15 번 난 발치 
+male_speed_mid_pitch_p5_24 25 번 7 번 단순매복 
+male_speed_mid_pitch_p5_25 1 번 3 번 단순매복 
+male_speed_fast_pitch_m5_1 36 번 34 번 복잡매목 
+male_speed_fast_pitch_m5_2 33 번 25 번 복잡매복 
+male_speed_fast_pitch_m5_3 3 번 6 번 완전매복 
+male_speed_fast_pitch_m5_4 18 번 38 번 완전매복 
+male_speed_fast_pitch_m5_5 24 번 13 번 드레싱 
+male_speed_fast_pitch_m5_6 15 번 19 번 소염술치은 
+male_speed_fast_pitch_m5_7 39 번 16 번 소염술치조 
+male_speed_fast_pitch_m5_8 30 번 17 번 치조골 셩형술 
+male_speed_fast_pitch_m5_9 5 번 29 번 치조골성형술 
+male_speed_fast_pitch_m5_10 36 번 4 번 약관절 촬영 
+male_speed_fast_pitch_m5_11 19 번 8 번 약관절 촬영 
+male_speed_fast_pitch_m5_12 41 번 29 번 치근단 
+male_speed_fast_pitch_m5_13 23 번 10 번 동시 2매 
+male_speed_fast_pitch_m5_14 13 번 32 번 파노라마 
+male_speed_fast_pitch_m5_15 16 번 35 번 교익 촬영 
+male_speed_fast_pitch_m5_16 3 번 20 번 교익 촬영 
+male_speed_fast_pitch_m5_17 7 번 41 번 CT촬영 
+male_speed_fast_pitch_m5_18 4 번 14 번 CT 촬영 
+male_speed_fast_pitch_m5_19 27 번 14 번 구강검진 
+male_speed_fast_pitch_m5_20 4 번 28 번 구강검진 
+male_speed_fast_pitch_m5_21 9 번 5 번 침윤 마취 
+male_speed_fast_pitch_m5_22 18 번 1 번 침윤 마취 
+male_speed_fast_pitch_m5_23 11 번 34 번 전달 마취 
+male_speed_fast_pitch_m5_24 8 번 11 번 전달 마취 
+male_speed_fast_pitch_m5_25 2 번 12 번 XRAY 
+male_speed_fast_pitch_zero_1 31 번 19 번 GI 충전 
+male_speed_fast_pitch_zero_2 5 번 11 번 SBS 방송국 
+male_speed_fast_pitch_zero_3 6 번 22 번 치은절제 
+male_speed_fast_pitch_zero_4 4 번 21 번 치은절제 
+male_speed_fast_pitch_zero_5 11 번 32 번 APF 
+male_speed_fast_pitch_zero_6 18 번 39 번 APF 골삭제 
+male_speed_fast_pitch_zero_7 23 번 11 번 충전 재 제거 
+male_speed_fast_pitch_zero_8 3 번 28 번 충전 재 제거 
+male_speed_fast_pitch_zero_9 2 번 33 번 인레이 
+male_speed_fast_pitch_zero_10 16 번 7 번 CR 제거 
+male_speed_fast_pitch_zero_11 2 번 9 번 CR제거 
+male_speed_fast_pitch_zero_12 28 번 23 번 포스트 제거 
+male_speed_fast_pitch_zero_13 10 번 11 번 포스트 제거 
+male_speed_fast_pitch_zero_14 22 번 13 번 홈메우기 
+male_speed_fast_pitch_zero_15 34 번 29 번 홈메우기 
+male_speed_fast_pitch_zero_16 33 번 3 번 치은절제 
+male_speed_fast_pitch_zero_17 41 번 16 번 치은절제 
+male_speed_fast_pitch_zero_18 6 번 2 번 치은판절제 
+male_speed_fast_pitch_zero_19 20 번 21 번 치은판절제 
+male_speed_fast_pitch_zero_20 38 번 36 번 EPT검사 
+male_speed_fast_pitch_zero_21 25 번 39 번 EPT 검사 
+male_speed_fast_pitch_zero_22 6 번 36 번 혈당검사 
+male_speed_fast_pitch_zero_23 10 번 41 번 혈당검사 
+male_speed_fast_pitch_zero_24 27 번 25 번 근 육주사 
+male_speed_fast_pitch_zero_25 27 번 29 번 근 육 주사 
+male_speed_fast_pitch_p5_1 1 번 25 번 임시접착 
+male_speed_fast_pitch_p5_2 14 번 3 번 임시접착 
+male_speed_fast_pitch_p5_3 38 번 14 번 영구 접착 
+male_speed_fast_pitch_p5_4 23 번 14 번 영구접착 
+male_speed_fast_pitch_p5_5 39 번 15 번 비급여 
+male_speed_fast_pitch_p5_6 25 번 9 번 비급여 
+male_speed_fast_pitch_p5_7 11 번 28 번 보철 물장착 
+male_speed_fast_pitch_p5_8 11 번 6 번 보철 물장착 
+male_speed_fast_pitch_p5_9 2 번 22 번 임플 FU 체크 
+male_speed_fast_pitch_p5_10 31 번 36 번 보철 FU 체크 
+male_speed_fast_pitch_p5_11 4 번 34 번 MTA 
+male_speed_fast_pitch_p5_12 24 번 41 번 구강 검사 
+male_speed_fast_pitch_p5_13 35 번 5 번 구강 검사 
+male_speed_fast_pitch_p5_14 19 번 36 번 치면 세균막검사 
+male_speed_fast_pitch_p5_15 24 번 15 번 치면 세균막검사 
+male_speed_fast_pitch_p5_16 38 번 24 번 세균막검사 
+male_speed_fast_pitch_p5_17 25 번 33 번 원외처방 
+male_speed_fast_pitch_p5_18 18 번 29 번 원외처방 
+male_speed_fast_pitch_p5_19 23 번 38 번 치관확장 
+male_speed_fast_pitch_p5_20 16 번 18 번 치관확장 
+male_speed_fast_pitch_p5_21 8 번 22 번 아목시실린 
+male_speed_fast_pitch_p5_22 6 번 34 번 오구멘틴 
+male_speed_fast_pitch_p5_23 4 번 31 번 로도질 
+male_speed_fast_pitch_p5_24 20 번 8 번 소아처방 
+male_speed_fast_pitch_p5_25 2 번 38 번 소아처방 
+female_speed_slow_pitch_m5_1 15 번 18 번 근이완제 
+female_speed_slow_pitch_m5_2 8 번 13 번 근이완제 
+female_speed_slow_pitch_m5_3 1 번 34 번 덴티스타 
+female_speed_slow_pitch_m5_4 19 번 38 번 치수 절단 
+female_speed_slow_pitch_m5_5 37 번 32 번 보통처치 
+female_speed_slow_pitch_m5_6 26 번 2 번 진정처치 
+female_speed_slow_pitch_m5_7 28 번 30 번 치수 복조 
+female_speed_slow_pitch_m5_8 13 번 16 번 지각간단 
+female_speed_slow_pitch_m5_9 14 번 22 번 지각복잡 
+female_speed_slow_pitch_m5_10 10 번 19 번 응급근관처치 
+female_speed_slow_pitch_m5_11 8 번 10 번 충전 율연마 
+female_speed_slow_pitch_m5_12 37 번 5 번 파철편 제거 
+female_speed_slow_pitch_m5_13 1 번 27 번 발수 
+female_speed_slow_pitch_m5_14 14 번 33 번 근관 확대 
+female_speed_slow_pitch_m5_15 17 번 12 번 근관 성형 
+female_speed_slow_pitch_m5_16 11 번 10 번 근관 세척 
+female_speed_slow_pitch_m5_17 21 번 17 번 근관 장측정 
+female_speed_slow_pitch_m5_18 7 번 34 번 가압근충 
+female_speed_slow_pitch_m5_19 34 번 3 번 단순근충 
+female_speed_slow_pitch_m5_20 7 번 10 번 당일발수근충 
+female_speed_slow_pitch_m5_21 1 번 13 번 REENDO 
+female_speed_slow_pitch_m5_22 33 번 12 번 러버댐 
+female_speed_slow_pitch_m5_23 6 번 15 번 치석 제거 
+female_speed_slow_pitch_m5_24 41 번 2 번 부분 치석 제거 
+female_speed_slow_pitch_m5_25 5 번 13 번 치근활택 
+female_speed_slow_pitch_zero_1 41 번 23 번 치주소파 
+female_speed_slow_pitch_zero_2 35 번 25 번 후처치 
+female_speed_slow_pitch_zero_3 32 번 21 번 후처치 
+female_speed_slow_pitch_zero_4 2 번 3 번 봉합사 
+female_speed_slow_pitch_zero_5 16 번 22 번 보철 재부착 
+female_speed_slow_pitch_zero_6 10 번 20 번 보철 재부착 
+female_speed_slow_pitch_zero_7 18 번 37 번 교합조정 
+female_speed_slow_pitch_zero_8 14 번 20 번 교합조정 
+female_speed_slow_pitch_zero_9 29 번 30 번 구내염처치 
+female_speed_slow_pitch_zero_10 8 번 30 번 구내염처치 
+female_speed_slow_pitch_zero_11 34 번 6 번 발치 
+female_speed_slow_pitch_zero_12 37 번 19 번 난 발치 
+female_speed_slow_pitch_zero_13 29 번 10 번 단순매복 
+female_speed_slow_pitch_zero_14 5 번 26 번 단순매복 
+female_speed_slow_pitch_zero_15 34 번 24 번 복잡매목 
+female_speed_slow_pitch_zero_16 14 번 6 번 복잡매복 
+female_speed_slow_pitch_zero_17 8 번 38 번 완전매복 
+female_speed_slow_pitch_zero_18 4 번 35 번 완전매복 
+female_speed_slow_pitch_zero_19 14 번 23 번 드레싱 
+female_speed_slow_pitch_zero_20 37 번 28 번 소염술치은 
+female_speed_slow_pitch_zero_21 22 번 23 번 소염술치조 
+female_speed_slow_pitch_zero_22 4 번 30 번 치조골 셩형술 
+female_speed_slow_pitch_zero_23 20 번 25 번 치조골성형술 
+female_speed_slow_pitch_zero_24 9 번 38 번 약관절 촬영 
+female_speed_slow_pitch_zero_25 15 번 10 번 약관절 촬영 
+female_speed_slow_pitch_p5_1 22 번 18 번 치근단 
+female_speed_slow_pitch_p5_2 22 번 29 번 동시 2매 
+female_speed_slow_pitch_p5_3 41 번 9 번 파노라마 
+female_speed_slow_pitch_p5_4 18 번 7 번 교익 촬영 
+female_speed_slow_pitch_p5_5 17 번 41 번 교익 촬영 
+female_speed_slow_pitch_p5_6 24 번 28 번 CT촬영 
+female_speed_slow_pitch_p5_7 14 번 35 번 CT 촬영 
+female_speed_slow_pitch_p5_8 28 번 24 번 구강검진 
+female_speed_slow_pitch_p5_9 30 번 35 번 구강검진 
+female_speed_slow_pitch_p5_10 15 번 27 번 침윤 마취 
+female_speed_slow_pitch_p5_11 26 번 23 번 침윤 마취 
+female_speed_slow_pitch_p5_12 23 번 41 번 전달 마취 
+female_speed_slow_pitch_p5_13 17 번 23 번 전달 마취 
+female_speed_slow_pitch_p5_14 33 번 30 번 XRAY 
+female_speed_slow_pitch_p5_15 7 번 4 번 GI 충전 
+female_speed_slow_pitch_p5_16 37 번 18 번 SBS 방송국 
+female_speed_slow_pitch_p5_17 3 번 19 번 치은절제 
+female_speed_slow_pitch_p5_18 3 번 18 번 치은절제 
+female_speed_slow_pitch_p5_19 17 번 15 번 APF 
+female_speed_slow_pitch_p5_20 25 번 11 번 APF 골삭제 
+female_speed_slow_pitch_p5_21 19 번 20 번 충전 재 제거 
+female_speed_slow_pitch_p5_22 41 번 3 번 충전 재 제거 
+female_speed_slow_pitch_p5_23 4 번 27 번 인레이 
+female_speed_slow_pitch_p5_24 34 번 28 번 CR 제거 
+female_speed_slow_pitch_p5_25 8 번 1 번 CR제거 
+female_speed_mid_pitch_m5_1 19 번 30 번 포스트 제거 
+female_speed_mid_pitch_m5_2 7 번 21 번 포스트 제거 
+female_speed_mid_pitch_m5_3 17 번 1 번 홈메우기 
+female_speed_mid_pitch_m5_4 35 번 31 번 홈메우기 
+female_speed_mid_pitch_m5_5 35 번 33 번 치은절제 
+female_speed_mid_pitch_m5_6 11 번 3 번 치은절제 
+female_speed_mid_pitch_m5_7 14 번 19 번 치은판절제 
+female_speed_mid_pitch_m5_8 38 번 27 번 치은판절제 
+female_speed_mid_pitch_m5_9 36 번 27 번 EPT검사 
+female_speed_mid_pitch_m5_10 22 번 27 번 EPT 검사 
+female_speed_mid_pitch_m5_11 23 번 26 번 혈당검사 
+female_speed_mid_pitch_m5_12 30 번 3 번 혈당검사 
+female_speed_mid_pitch_m5_13 30 번 24 번 근 육주사 
+female_speed_mid_pitch_m5_14 16 번 30 번 근 육 주사 
+female_speed_mid_pitch_m5_15 14 번 7 번 임시접착 
+female_speed_mid_pitch_m5_16 33 번 36 번 임시접착 
+female_speed_mid_pitch_m5_17 38 번 3 번 영구 접착 
+female_speed_mid_pitch_m5_18 23 번 28 번 영구접착 
+female_speed_mid_pitch_m5_19 27 번 15 번 비급여 
+female_speed_mid_pitch_m5_20 10 번 18 번 비급여 
+female_speed_mid_pitch_m5_21 22 번 12 번 보철 물장착 
+female_speed_mid_pitch_m5_22 9 번 32 번 보철 물장착 
+female_speed_mid_pitch_m5_23 15 번 36 번 임플 FU 체크 
+female_speed_mid_pitch_m5_24 1 번 6 번 보철 FU 체크 
+female_speed_mid_pitch_m5_25 15 번 22 번 MTA 
+female_speed_mid_pitch_zero_1 26 번 14 번 구강 검사 
+female_speed_mid_pitch_zero_2 6 번 17 번 구강 검사 
+female_speed_mid_pitch_zero_3 20 번 1 번 치면 세균막검사 
+female_speed_mid_pitch_zero_4 29 번 16 번 치면 세균막검사 
+female_speed_mid_pitch_zero_5 28 번 39 번 세균막검사 
+female_speed_mid_pitch_zero_6 41 번 10 번 원외처방 
+female_speed_mid_pitch_zero_7 31 번 13 번 원외처방 
+female_speed_mid_pitch_zero_8 14 번 4 번 치관확장 
+female_speed_mid_pitch_zero_9 14 번 10 번 치관확장 
+female_speed_mid_pitch_zero_10 30 번 22 번 아목시실린 
+female_speed_mid_pitch_zero_11 35 번 20 번 오구멘틴 
+female_speed_mid_pitch_zero_12 15 번 1 번 로도질 
+female_speed_mid_pitch_zero_13 37 번 23 번 소아처방 
+female_speed_mid_pitch_zero_14 13 번 28 번 소아처방 
+female_speed_mid_pitch_zero_15 25 번 12 번 근이완제 
+female_speed_mid_pitch_zero_16 20 번 4 번 근이완제 
+female_speed_mid_pitch_zero_17 29 번 27 번 덴티스타 
+female_speed_mid_pitch_zero_18 7 번 5 번 치수 절단 
+female_speed_mid_pitch_zero_19 21 번 37 번 보통처치 
+female_speed_mid_pitch_zero_20 25 번 23 번 진정처치 
+female_speed_mid_pitch_zero_21 5 번 18 번 치수 복조 
+female_speed_mid_pitch_zero_22 12 번 6 번 지각간단 
+female_speed_mid_pitch_zero_23 32 번 9 번 지각복잡 
+female_speed_mid_pitch_zero_24 35 번 24 번 응급근관처치 
+female_speed_mid_pitch_zero_25 24 번 9 번 충전 율연마 
+female_speed_mid_pitch_p5_1 9 번 3 번 파철편 제거 
+female_speed_mid_pitch_p5_2 17 번 27 번 발수 
+female_speed_mid_pitch_p5_3 11 번 23 번 근관 확대 
+female_speed_mid_pitch_p5_4 22 번 21 번 근관 성형 
+female_speed_mid_pitch_p5_5 20 번 17 번 근관 세척 
+female_speed_mid_pitch_p5_6 22 번 15 번 근관 장측정 
+female_speed_mid_pitch_p5_7 35 번 4 번 가압근충 
+female_speed_mid_pitch_p5_8 26 번 17 번 단순근충 
+female_speed_mid_pitch_p5_9 4 번 11 번 당일발수근충 
+female_speed_mid_pitch_p5_10 33 번 17 번 REENDO 
+female_speed_mid_pitch_p5_11 5 번 10 번 러버댐 
+female_speed_mid_pitch_p5_12 6 번 24 번 치석 제거 
+female_speed_mid_pitch_p5_13 17 번 5 번 부분 치석 제거 
+female_speed_mid_pitch_p5_14 3 번 27 번 치근활택 
+female_speed_mid_pitch_p5_15 11 번 18 번 치주소파 
+female_speed_mid_pitch_p5_16 22 번 41 번 후처치 
+female_speed_mid_pitch_p5_17 22 번 38 번 후처치 
+female_speed_mid_pitch_p5_18 3 번 38 번 봉합사 
+female_speed_mid_pitch_p5_19 35 번 15 번 보철 재부착 
+female_speed_mid_pitch_p5_20 13 번 9 번 보철 재부착 
+female_speed_mid_pitch_p5_21 19 번 41 번 교합조정 
+female_speed_mid_pitch_p5_22 30 번 39 번 교합조정 
+female_speed_mid_pitch_p5_23 14 번 5 번 구내염처치 
+female_speed_mid_pitch_p5_24 35 번 16 번 구내염처치 
+female_speed_mid_pitch_p5_25 16 번 13 번 발치 
+female_speed_fast_pitch_m5_1 9 번 13 번 난 발치 
+female_speed_fast_pitch_m5_2 14 번 32 번 단순매복 
+female_speed_fast_pitch_m5_3 24 번 29 번 단순매복 
+female_speed_fast_pitch_m5_4 16 번 1 번 복잡매목 
+female_speed_fast_pitch_m5_5 41 번 37 번 복잡매복 
+female_speed_fast_pitch_m5_6 37 번 24 번 완전매복 
+female_speed_fast_pitch_m5_7 7 번 32 번 완전매복 
+female_speed_fast_pitch_m5_8 21 번 31 번 드레싱 
+female_speed_fast_pitch_m5_9 31 번 22 번 소염술치은 
+female_speed_fast_pitch_m5_10 28 번 12 번 소염술치조 
+female_speed_fast_pitch_m5_11 15 번 24 번 치조골 셩형술 
+female_speed_fast_pitch_m5_12 12 번 21 번 치조골성형술 
+female_speed_fast_pitch_m5_13 38 번 32 번 약관절 촬영 
+female_speed_fast_pitch_m5_14 31 번 41 번 약관절 촬영 
+female_speed_fast_pitch_m5_15 32 번 24 번 치근단 
+female_speed_fast_pitch_m5_16 9 번 2 번 동시 2매 
+female_speed_fast_pitch_m5_17 11 번 24 번 파노라마 
+female_speed_fast_pitch_m5_18 15 번 17 번 교익 촬영 
+female_speed_fast_pitch_m5_19 39 번 29 번 교익 촬영 
+female_speed_fast_pitch_m5_20 13 번 29 번 CT촬영 
+female_speed_fast_pitch_m5_21 11 번 8 번 CT 촬영 
+female_speed_fast_pitch_m5_22 19 번 28 번 구강검진 
+female_speed_fast_pitch_m5_23 30 번 7 번 구강검진 
+female_speed_fast_pitch_m5_24 29 번 3 번 침윤 마취 
+female_speed_fast_pitch_m5_25 11 번 17 번 침윤 마취 
+female_speed_fast_pitch_zero_1 27 번 12 번 전달 마취 
+female_speed_fast_pitch_zero_2 22 번 11 번 전달 마취 
+female_speed_fast_pitch_zero_3 6 번 23 번 XRAY 
+female_speed_fast_pitch_zero_4 9 번 27 번 GI 충전 
+female_speed_fast_pitch_zero_5 16 번 9 번 SBS 방송국 
+female_speed_fast_pitch_zero_6 37 번 4 번 치은절제 
+female_speed_fast_pitch_zero_7 39 번 27 번 치은절제 
+female_speed_fast_pitch_zero_8 21 번 34 번 APF 
+female_speed_fast_pitch_zero_9 24 번 2 번 APF 골삭제 
+female_speed_fast_pitch_zero_10 26 번 1 번 충전 재 제거 
+female_speed_fast_pitch_zero_11 37 번 8 번 충전 재 제거 
+female_speed_fast_pitch_zero_12 33 번 27 번 인레이 
+female_speed_fast_pitch_zero_13 8 번 35 번 CR 제거 
+female_speed_fast_pitch_zero_14 37 번 21 번 CR제거 
+female_speed_fast_pitch_zero_15 16 번 39 번 포스트 제거 
+female_speed_fast_pitch_zero_16 2 번 11 번 포스트 제거 
+female_speed_fast_pitch_zero_17 33 번 37 번 홈메우기 
+female_speed_fast_pitch_zero_18 39 번 25 번 홈메우기 
+female_speed_fast_pitch_zero_19 28 번 9 번 치은절제 
+female_speed_fast_pitch_zero_20 33 번 23 번 치은절제 
+female_speed_fast_pitch_zero_21 2 번 1 번 치은판절제 
+female_speed_fast_pitch_zero_22 25 번 17 번 치은판절제 
+female_speed_fast_pitch_zero_23 20 번 13 번 EPT검사 
+female_speed_fast_pitch_zero_24 32 번 15 번 EPT 검사 
+female_speed_fast_pitch_zero_25 32 번 19 번 혈당검사 
+female_speed_fast_pitch_p5_1 23 번 21 번 혈당검사 
+female_speed_fast_pitch_p5_2 19 번 31 번 근 육주사 
+female_speed_fast_pitch_p5_3 16 번 2 번 근 육 주사 
+female_speed_fast_pitch_p5_4 17 번 16 번 임시접착 
+female_speed_fast_pitch_p5_5 19 번 23 번 임시접착 
+female_speed_fast_pitch_p5_6 13 번 19 번 영구 접착 
+female_speed_fast_pitch_p5_7 28 번 1 번 영구접착 
+female_speed_fast_pitch_p5_8 22 번 35 번 비급여 
+female_speed_fast_pitch_p5_9 31 번 38 번 비급여 
+female_speed_fast_pitch_p5_10 41 번 32 번 보철 물장착 
+female_speed_fast_pitch_p5_11 19 번 6 번 보철 물장착 
+female_speed_fast_pitch_p5_12 18 번 4 번 임플 FU 체크 
+female_speed_fast_pitch_p5_13 39 번 21 번 보철 FU 체크 
+female_speed_fast_pitch_p5_14 10 번 28 번 MTA 
+female_speed_fast_pitch_p5_15 2 번 13 번 구강 검사 
+female_speed_fast_pitch_p5_16 37 번 41 번 구강 검사 
+female_speed_fast_pitch_p5_17 21 번 28 번 치면 세균막검사 
+female_speed_fast_pitch_p5_18 41 번 33 번 치면 세균막검사 
+female_speed_fast_pitch_p5_19 33 번 10 번 세균막검사 
+female_speed_fast_pitch_p5_20 12 번 36 번 원외처방 
+female_speed_fast_pitch_p5_21 34 번 9 번 원외처방 
+female_speed_fast_pitch_p5_22 4 번 23 번 치관확장 
+female_speed_fast_pitch_p5_23 14 번 28 번 치관확장 
+female_speed_fast_pitch_p5_24 30 번 8 번 아목시실린 
+female_speed_fast_pitch_p5_25 14 번 16 번 오구멘틴 
+neutral_speed_slow_pitch_m5_1 19 번 9 번 로도질 
+neutral_speed_slow_pitch_m5_2 6 번 7 번 소아처방 
+neutral_speed_slow_pitch_m5_3 30 번 6 번 소아처방 
+neutral_speed_slow_pitch_m5_4 12 번 27 번 근이완제 
+neutral_speed_slow_pitch_m5_5 8 번 9 번 근이완제 
+neutral_speed_slow_pitch_m5_6 32 번 18 번 덴티스타 
+neutral_speed_slow_pitch_m5_7 9 번 30 번 치수 절단 
+neutral_speed_slow_pitch_m5_8 22 번 25 번 보통처치 
+neutral_speed_slow_pitch_m5_9 33 번 2 번 진정처치 
+neutral_speed_slow_pitch_m5_10 23 번 17 번 치수 복조 
+neutral_speed_slow_pitch_m5_11 16 번 24 번 지각간단 
+neutral_speed_slow_pitch_m5_12 36 번 13 번 지각복잡 
+neutral_speed_slow_pitch_m5_13 30 번 29 번 응급근관처치 
+neutral_speed_slow_pitch_m5_14 17 번 38 번 충전 율연마 
+neutral_speed_slow_pitch_m5_15 22 번 26 번 파철편 제거 
+neutral_speed_slow_pitch_m5_16 18 번 17 번 발수 
+neutral_speed_slow_pitch_m5_17 9 번 19 번 근관 확대 
+neutral_speed_slow_pitch_m5_18 7 번 38 번 근관 성형 
+neutral_speed_slow_pitch_m5_19 15 번 20 번 근관 세척 
+neutral_speed_slow_pitch_m5_20 11 번 4 번 근관 장측정 
+neutral_speed_slow_pitch_m5_21 37 번 31 번 가압근충 
+neutral_speed_slow_pitch_m5_22 41 번 19 번 단순근충 
+neutral_speed_slow_pitch_m5_23 25 번 34 번 당일발수근충 
+neutral_speed_slow_pitch_m5_24 36 번 37 번 REENDO 
+neutral_speed_slow_pitch_m5_25 12 번 26 번 러버댐 
+neutral_speed_slow_pitch_zero_1 28 번 33 번 치석 제거 
+neutral_speed_slow_pitch_zero_2 24 번 12 번 부분 치석 제거 
+neutral_speed_slow_pitch_zero_3 4 번 25 번 치근활택 
+neutral_speed_slow_pitch_zero_4 2 번 20 번 치주소파 
+neutral_speed_slow_pitch_zero_5 39 번 37 번 후처치 
+neutral_speed_slow_pitch_zero_6 25 번 38 번 후처치 
+neutral_speed_slow_pitch_zero_7 37 번 25 번 봉합사 
+neutral_speed_slow_pitch_zero_8 31 번 1 번 보철 재부착 
+neutral_speed_slow_pitch_zero_9 18 번 13 번 보철 재부착 
+neutral_speed_slow_pitch_zero_10 27 번 41 번 교합조정 
+neutral_speed_slow_pitch_zero_11 4 번 24 번 교합조정 
+neutral_speed_slow_pitch_zero_12 10 번 8 번 구내염처치 
+neutral_speed_slow_pitch_zero_13 10 번 5 번 구내염처치 
+neutral_speed_slow_pitch_zero_14 3 번 31 번 발치 
+neutral_speed_slow_pitch_zero_15 24 번 8 번 난 발치 
+neutral_speed_slow_pitch_zero_16 13 번 35 번 단순매복 
+neutral_speed_slow_pitch_zero_17 16 번 34 번 단순매복 
+neutral_speed_slow_pitch_zero_18 18 번 12 번 복잡매목 
+neutral_speed_slow_pitch_zero_19 14 번 41 번 복잡매복 
+neutral_speed_slow_pitch_zero_20 14 번 34 번 완전매복 
+neutral_speed_slow_pitch_zero_21 3 번 17 번 완전매복 
+neutral_speed_slow_pitch_zero_22 33 번 18 번 드레싱 
+neutral_speed_slow_pitch_zero_23 33 번 35 번 소염술치은 
+neutral_speed_slow_pitch_zero_24 38 번 18 번 소염술치조 
+neutral_speed_slow_pitch_zero_25 2 번 4 번 치조골 셩형술 
+neutral_speed_slow_pitch_p5_1 39 번 23 번 치조골성형술 
+neutral_speed_slow_pitch_p5_2 29 번 1 번 약관절 촬영 
+neutral_speed_slow_pitch_p5_3 33 번 21 번 약관절 촬영 
+neutral_speed_slow_pitch_p5_4 8 번 37 번 치근단 
+neutral_speed_slow_pitch_p5_5 31 번 35 번 동시 2매 
+neutral_speed_slow_pitch_p5_6 17 번 9 번 파노라마 
+neutral_speed_slow_pitch_p5_7 1 번 10 번 교익 촬영 
+neutral_speed_slow_pitch_p5_8 3 번 5 번 교익 촬영 
+neutral_speed_slow_pitch_p5_9 32 번 1 번 CT촬영 
+neutral_speed_slow_pitch_p5_10 41 번 21 번 CT 촬영 
+neutral_speed_slow_pitch_p5_11 6 번 18 번 구강검진 
+neutral_speed_slow_pitch_p5_12 36 번 16 번 구강검진 
+neutral_speed_slow_pitch_p5_13 12 번 5 번 침윤 마취 
+neutral_speed_slow_pitch_p5_14 11 번 30 번 침윤 마취 
+neutral_speed_slow_pitch_p5_15 1 번 35 번 전달 마취 
+neutral_speed_slow_pitch_p5_16 22 번 39 번 전달 마취 
+neutral_speed_slow_pitch_p5_17 7 번 20 번 XRAY 
+neutral_speed_slow_pitch_p5_18 29 번 20 번 GI 충전 
+neutral_speed_slow_pitch_p5_19 21 번 27 번 SBS 방송국 
+neutral_speed_slow_pitch_p5_20 25 번 14 번 치은절제 
+neutral_speed_slow_pitch_p5_21 4 번 22 번 치은절제 
+neutral_speed_slow_pitch_p5_22 39 번 22 번 APF 
+neutral_speed_slow_pitch_p5_23 29 번 4 번 APF 골삭제 
+neutral_speed_slow_pitch_p5_24 11 번 26 번 충전 재 제거 
+neutral_speed_slow_pitch_p5_25 18 번 35 번 충전 재 제거 
+neutral_speed_mid_pitch_m5_1 3 번 14 번 인레이 
+neutral_speed_mid_pitch_m5_2 8 번 32 번 CR 제거 
+neutral_speed_mid_pitch_m5_3 39 번 19 번 CR제거 
+neutral_speed_mid_pitch_m5_4 25 번 13 번 포스트 제거 
+neutral_speed_mid_pitch_m5_5 2 번 26 번 포스트 제거 
+neutral_speed_mid_pitch_m5_6 11 번 13 번 홈메우기 
+neutral_speed_mid_pitch_m5_7 31 번 26 번 홈메우기 
+neutral_speed_mid_pitch_m5_8 25 번 37 번 치은절제 
+neutral_speed_mid_pitch_m5_9 1 번 12 번 치은절제 
+neutral_speed_mid_pitch_m5_10 22 번 14 번 치은판절제 
+neutral_speed_mid_pitch_m5_11 32 번 7 번 치은판절제 
+neutral_speed_mid_pitch_m5_12 7 번 9 번 EPT검사 
+neutral_speed_mid_pitch_m5_13 31 번 29 번 EPT 검사 
+neutral_speed_mid_pitch_m5_14 41 번 30 번 혈당검사 
+neutral_speed_mid_pitch_m5_15 29 번 13 번 혈당검사 
+neutral_speed_mid_pitch_m5_16 4 번 41 번 근 육주사 
+neutral_speed_mid_pitch_m5_17 8 번 25 번 근 육 주사 
+neutral_speed_mid_pitch_m5_18 28 번 36 번 임시접착 
+neutral_speed_mid_pitch_m5_19 29 번 21 번 임시접착 
+neutral_speed_mid_pitch_m5_20 15 번 11 번 영구 접착 
+neutral_speed_mid_pitch_m5_21 28 번 4 번 영구접착 
+neutral_speed_mid_pitch_m5_22 19 번 5 번 비급여 
+neutral_speed_mid_pitch_m5_23 26 번 11 번 비급여 
+neutral_speed_mid_pitch_m5_24 10 번 35 번 보철 물장착 
+neutral_speed_mid_pitch_m5_25 41 번 28 번 보철 물장착 
+neutral_speed_mid_pitch_zero_1 39 번 35 번 임플 FU 체크 
+neutral_speed_mid_pitch_zero_2 31 번 27 번 보철 FU 체크 
+neutral_speed_mid_pitch_zero_3 36 번 18 번 MTA 
+neutral_speed_mid_pitch_zero_4 26 번 21 번 구강 검사 
+neutral_speed_mid_pitch_zero_5 29 번 23 번 구강 검사 
+neutral_speed_mid_pitch_zero_6 28 번 22 번 치면 세균막검사 
+neutral_speed_mid_pitch_zero_7 3 번 26 번 치면 세균막검사 
+neutral_speed_mid_pitch_zero_8 20 번 34 번 세균막검사 
+neutral_speed_mid_pitch_zero_9 34 번 33 번 원외처방 
+neutral_speed_mid_pitch_zero_10 13 번 36 번 원외처방 
+neutral_speed_mid_pitch_zero_11 7 번 23 번 치관확장 
+neutral_speed_mid_pitch_zero_12 19 번 37 번 치관확장 
+neutral_speed_mid_pitch_zero_13 32 번 39 번 아목시실린 
+neutral_speed_mid_pitch_zero_14 15 번 25 번 오구멘틴 
+neutral_speed_mid_pitch_zero_15 7 번 2 번 로도질 
+neutral_speed_mid_pitch_zero_16 9 번 1 번 소아처방 
+neutral_speed_mid_pitch_zero_17 8 번 29 번 소아처방 
+neutral_speed_mid_pitch_zero_18 39 번 2 번 근이완제 
+neutral_speed_mid_pitch_zero_19 20 번 37 번 근이완제 
+neutral_speed_mid_pitch_zero_20 1 번 16 번 덴티스타 
+neutral_speed_mid_pitch_zero_21 33 번 8 번 치수 절단 
+neutral_speed_mid_pitch_zero_22 29 번 34 번 보통처치 
+neutral_speed_mid_pitch_zero_23 6 번 20 번 진정처치 
+neutral_speed_mid_pitch_zero_24 17 번 34 번 치수 복조 
+neutral_speed_mid_pitch_zero_25 32 번 29 번 지각간단 
+neutral_speed_mid_pitch_p5_1 41 번 18 번 지각복잡 
+neutral_speed_mid_pitch_p5_2 29 번 25 번 응급근관처치 
+neutral_speed_mid_pitch_p5_3 25 번 10 번 충전 율연마 
+neutral_speed_mid_pitch_p5_4 18 번 10 번 파철편 제거 
+neutral_speed_mid_pitch_p5_5 12 번 25 번 발수 
+neutral_speed_mid_pitch_p5_6 21 번 25 번 근관 확대 
+neutral_speed_mid_pitch_p5_7 19 번 25 번 근관 성형 
+neutral_speed_mid_pitch_p5_8 25 번 18 번 근관 세척 
+neutral_speed_mid_pitch_p5_9 4 번 10 번 근관 장측정 
+neutral_speed_mid_pitch_p5_10 2 번 36 번 가압근충 
+neutral_speed_mid_pitch_p5_11 24 번 27 번 단순근충 
+neutral_speed_mid_pitch_p5_12 38 번 6 번 당일발수근충 
+neutral_speed_mid_pitch_p5_13 31 번 30 번 REENDO 
+neutral_speed_mid_pitch_p5_14 34 번 20 번 러버댐 
+neutral_speed_mid_pitch_p5_15 23 번 37 번 치석 제거 
+neutral_speed_mid_pitch_p5_16 14 번 8 번 부분 치석 제거 
+neutral_speed_mid_pitch_p5_17 5 번 20 번 치근활택 
+neutral_speed_mid_pitch_p5_18 10 번 1 번 치주소파 
+neutral_speed_mid_pitch_p5_19 38 번 19 번 후처치 
+neutral_speed_mid_pitch_p5_20 38 번 34 번 후처치 
+neutral_speed_mid_pitch_p5_21 25 번 16 번 봉합사 
+neutral_speed_mid_pitch_p5_22 7 번 15 번 보철 재부착 
+neutral_speed_mid_pitch_p5_23 18 번 6 번 보철 재부착 
+neutral_speed_mid_pitch_p5_24 14 번 38 번 교합조정 
+neutral_speed_mid_pitch_p5_25 36 번 23 번 교합조정 
+neutral_speed_fast_pitch_m5_1 38 번 25 번 구내염처치 
+neutral_speed_fast_pitch_m5_2 36 번 30 번 구내염처치 
+neutral_speed_fast_pitch_m5_3 29 번 38 번 발치 
+neutral_speed_fast_pitch_m5_4 4 번 13 번 난 발치 
+neutral_speed_fast_pitch_m5_5 10 번 36 번 단순매복 
+neutral_speed_fast_pitch_m5_6 17 번 4 번 단순매복 
+neutral_speed_fast_pitch_m5_7 23 번 18 번 복잡매목 
+neutral_speed_fast_pitch_m5_8 12 번 10 번 복잡매복 
+neutral_speed_fast_pitch_m5_9 41 번 22 번 완전매복 
+neutral_speed_fast_pitch_m5_10 27 번 5 번 완전매복 
+neutral_speed_fast_pitch_m5_11 16 번 21 번 드레싱 
+neutral_speed_fast_pitch_m5_12 33 번 11 번 소염술치은 
+neutral_speed_fast_pitch_m5_13 29 번 7 번 소염술치조 
+neutral_speed_fast_pitch_m5_14 34 번 36 번 치조골 셩형술 
+neutral_speed_fast_pitch_m5_15 21 번 8 번 치조골성형술 
+neutral_speed_fast_pitch_m5_16 2 번 31 번 약관절 촬영 
+neutral_speed_fast_pitch_m5_17 21 번 33 번 약관절 촬영 
+neutral_speed_fast_pitch_m5_18 18 번 36 번 치근단 
+neutral_speed_fast_pitch_m5_19 36 번 20 번 동시 2매 
+neutral_speed_fast_pitch_m5_20 6 번 29 번 파노라마 
+neutral_speed_fast_pitch_m5_21 2 번 15 번 교익 촬영 
+neutral_speed_fast_pitch_m5_22 26 번 34 번 교익 촬영 
+neutral_speed_fast_pitch_m5_23 5 번 31 번 CT촬영 
+neutral_speed_fast_pitch_m5_24 27 번 36 번 CT 촬영 
+neutral_speed_fast_pitch_m5_25 9 번 15 번 구강검진 
+neutral_speed_fast_pitch_zero_1 39 번 24 번 구강검진 
+neutral_speed_fast_pitch_zero_2 25 번 36 번 침윤 마취 
+neutral_speed_fast_pitch_zero_3 1 번 11 번 침윤 마취 
+neutral_speed_fast_pitch_zero_4 28 번 16 번 전달 마취 
+neutral_speed_fast_pitch_zero_5 12 번 7 번 전달 마취 
+neutral_speed_fast_pitch_zero_6 7 번 17 번 XRAY 
+neutral_speed_fast_pitch_zero_7 36 번 29 번 GI 충전 
+neutral_speed_fast_pitch_zero_8 14 번 30 번 SBS 방송국 
+neutral_speed_fast_pitch_zero_9 15 번 29 번 치은절제 
+neutral_speed_fast_pitch_zero_10 20 번 10 번 치은절제 
+neutral_speed_fast_pitch_zero_11 27 번 23 번 APF 
+neutral_speed_fast_pitch_zero_12 38 번 29 번 APF 골삭제 
+neutral_speed_fast_pitch_zero_13 32 번 27 번 충전 재 제거 
+neutral_speed_fast_pitch_zero_14 17 번 20 번 충전 재 제거 
+neutral_speed_fast_pitch_zero_15 3 번 30 번 인레이 
+neutral_speed_fast_pitch_zero_16 16 번 27 번 CR 제거 
+neutral_speed_fast_pitch_zero_17 11 번 38 번 CR제거 
+neutral_speed_fast_pitch_zero_18 28 번 3 번 포스트 제거 
+neutral_speed_fast_pitch_zero_19 19 번 27 번 포스트 제거 
+neutral_speed_fast_pitch_zero_20 24 번 14 번 홈메우기 
+neutral_speed_fast_pitch_zero_21 12 번 24 번 홈메우기 
+neutral_speed_fast_pitch_zero_22 29 번 12 번 치은절제 
+neutral_speed_fast_pitch_zero_23 12 번 30 번 치은절제 
+neutral_speed_fast_pitch_zero_24 37 번 27 번 치은판절제 
+neutral_speed_fast_pitch_zero_25 12 번 34 번 치은판절제 
+neutral_speed_fast_pitch_p5_1 10 번 9 번 EPT검사 
+neutral_speed_fast_pitch_p5_2 35 번 29 번 EPT 검사 
+neutral_speed_fast_pitch_p5_3 30 번 28 번 혈당검사 
+neutral_speed_fast_pitch_p5_4 12 번 33 번 혈당검사 
+neutral_speed_fast_pitch_p5_5 25 번 5 번 근 육주사 
+neutral_speed_fast_pitch_p5_6 3 번 9 번 근 육 주사 
+neutral_speed_fast_pitch_p5_7 15 번 30 번 임시접착 
+neutral_speed_fast_pitch_p5_8 33 번 31 번 임시접착 
+neutral_speed_fast_pitch_p5_9 13 번 15 번 영구 접착 
+neutral_speed_fast_pitch_p5_10 16 번 3 번 영구접착 
+neutral_speed_fast_pitch_p5_11 3 번 39 번 비급여 
+neutral_speed_fast_pitch_p5_12 24 번 23 번 비급여 
+neutral_speed_fast_pitch_p5_13 38 번 21 번 보철 물장착 
+neutral_speed_fast_pitch_p5_14 19 번 15 번 보철 물장착 
+neutral_speed_fast_pitch_p5_15 38 번 37 번 임플 FU 체크 
+neutral_speed_fast_pitch_p5_16 11 번 21 번 보철 FU 체크 
+neutral_speed_fast_pitch_p5_17 14 번 26 번 MTA 
+neutral_speed_fast_pitch_p5_18 9 번 31 번 구강 검사 
+neutral_speed_fast_pitch_p5_19 24 번 17 번 구강 검사 
+neutral_speed_fast_pitch_p5_20 37 번 1 번 치면 세균막검사 
+neutral_speed_fast_pitch_p5_21 32 번 23 번 치면 세균막검사 
+neutral_speed_fast_pitch_p5_22 35 번 34 번 세균막검사 
+neutral_speed_fast_pitch_p5_23 34 번 26 번 원외처방 
+neutral_speed_fast_pitch_p5_24 32 번 38 번 원외처방 
+neutral_speed_fast_pitch_p5_25 41 번 13 번 치관확장 

@@ -1,0 +1,80 @@
+#!/bin/bash
+# for kaldi nnet3 decoding process check
+# 
+# Copyright  2017  Atlas Guide (Author : Lucas Jo)
+# 
+# Apache 2.0
+#
+#
+
+#decoder=/home/haruband/kaldi/src/online2bin/online2-web-nnet3-decode-testmode
+decoder=~/kaldi/src/online2bin/online2-web-testmode
+echo "$0 $@"
+
+datadir=$1
+asrdir=$2
+
+srcdir=$asrdir/srcdir
+decodedir=$asrdir/decode
+
+if [ ! -d $decodedir ]; then
+    mkdir -p $decodedir
+fi
+
+do_endpointing=false
+frames_per_chunk=20
+extra_left_context_initial=0
+online=true
+online_config=$srcdir/conf/online.conf;
+min_active=200
+max_active=7000
+beam=15.0
+lattice_beam=6.0
+acwt=0.5
+post_decode_acwt=10.0  # can be used in 'chain' systems to scale acoustics by 10 so the
+                       # regular scoring script works.
+
+frame_subsampling_opt=
+if [ -f $srcdir/frame_subsampling_factor ]; then
+  # e.g. for 'chain' systems
+  frame_subsampling_opt="--frame-subsampling-factor=$(cat $srcdir/frame_subsampling_factor)"
+fi
+
+web_stage=3
+echo "#### Decoding ####"
+echo $silence_weighting_opts
+echo "#### Decoding ####"
+
+if [ "$web_stage" -eq 1 ]; then
+    echo "web docoding"
+    $decoder $silence_weighting_opts \
+          --verbose=2 \
+	  $srcdir/final.mdl $srcdir/HCLG.fst $srcdir/words.txt
+    exit 1
+fi
+
+if [ "$web_stage" -eq 2 ]; then
+    echo "web docoding"
+    $decoder $silence_weighting_opts \
+          --config=$online_config \
+          --verbose=2 \
+	   --frames-per-chunk=$frames_per_chunk \
+          --min-active=$min_active --max-active=$max_active --beam=$beam --lattice-beam=$lattice_beam \
+          $srcdir/final.mdl $srcdir/HCLG.fst $srcdir/words.txt
+    exit 1
+fi    
+
+if [ "$web_stage" -eq 3 ]; then
+    echo "web docoding"
+    $decoder $silence_weighting_opts \
+          --frames-per-chunk=$frames_per_chunk \
+          --extra-left-context-initial=$extra_left_context_initial \
+          $frame_subsampling_opt \
+          --config=$online_config \
+          --verbose=2 \
+          --min-active=$min_active --max-active=$max_active --beam=$beam --lattice-beam=$lattice_beam \
+          --acoustic-scale=$acwt $srcdir/final.mdl $srcdir/HCLG.fst $srcdir/words.txt \
+          ark:$datadir/wav.scp $datadir/decode.txt
+    exit 1
+fi    
+
