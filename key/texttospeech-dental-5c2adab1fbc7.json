@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "texttospeech-dental",
+  "private_key_id": "5c2adab1fbc781fc71a099402917b3ebc30076a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQD2hEJZjomDow1s\nLi8tN2aRZWfgD14soJ0rU9X/l9ggJFzDgs+XmDhgBKr/YZMvrcmZe+ys++/NvtPU\nPgm/aq0hVk/Fn74GDBBcKxZrNhIv+CtgNpwc+EPgKIOqVBCvXwPARyfBYM5HhJTh\nGqISiT2YnyExkjF1zQjULu/nDcfH8XN6rC7bPrSPDXSC8cM5zThDFY3UReHW+9Zr\nyeCcW89+ChHIa+XcF0FY9Ize8cUEhtbOVXKUiFqwR31sZqn7lCBqOhfJYgFQqPgn\n0nunruYPIE5uRCPeXDNqmqQP7CpEHVL679ArTxkXjkKnJbHhBxDXQ4v/tIEs1yMr\nguwD6YHVAgMBAAECggEANGHqT2lwYx50rbYqpCsPinnH1t6tHkKK4zgPUx6K+FmB\ntLHJNudLo2uagmXThuAg5JJmumNWk5unG4SLQbeDToAut0m4cUSC/XLScrmsp7DO\nVsWD6sv+cFVrlPgEC5/fBi6YjgjqDFxp3mNwaQvsoM+/l+7+v49v/tZyd+B/wUZs\ng6m4JG0FvjN7VK0LwnkIdNikcNpTJ8GBu7sVLxM6zg0ngufZppSajbi9B4WkLS8V\njxc4oSzY4l+ijR+bX33cWQkPXkMmQLeXryRoxu0ik+bFMUNVp09mIWczqKgvUncq\nk8a4A7raLBaIlTpzvbW+Or8TzABcWgfwcE2IXonjwQKBgQD+qwGZ7NnXUzcYS7MR\neSIF2wE04kTMtyXir8jJ1CQz4+UT9d+/5IgIkGN0Zxj9hMOtddOqc3VvpehdSu69\nfNIatRMoUIisOo8y8GbG6NayFsmqhS7vcrSsZ8foyx0PaazW9gP532sbIZthPYAd\nv7O+lnYKcOBL9XAk1dO0sXCsHQKBgQD3zlamK/SKrA+KIiJp2P470iDlzeLcZK+T\n+T2y7GMamrJdJ6wDlUenoFI/xBYvBCtg+BfBIuv7amTq4UXEJJXoBWwx2MLlUiRZ\n/ngGKDeCTIHbUNzmSAu5cFxThLX1HqGCxEzK0TldKrHUXX68dZC4owRQWHMQ9UrJ\nF+shxq8PGQKBgGN1b9Oor88rfbnsXov1bfcxeAAqWkpFQPOOSXGhe14Uo/Ous+ri\nmsoVcfIVDap9PlqxSLAqFXQ8LEq7KBAy/m9VxpyZDzeMSz7OqqUGbErzIWGKUDFN\n8AfhJC7jnH7Xe5wcSqM8wTzAXEmW1kFIDC/j3Ufom4Cu41RPejX4kpN1AoGANwUK\nOhTyU8PGI35Ws7epIvERutROtW5piWpCZ7KSgnqsdYB0ccs4QKCZAm1wG3pKg1oy\nNACj8ot54qiny9fvrLdfgWXGSBJH3e9hCMTvJjAEeQRoN3zxlXe8GBMUL1tgst8Q\nyctQeD4dg7BKjl9wBX60W3539eDwfNuhqjsp7SkCgYAUyNO7rlETrRmeFrOwg+E3\nYPkxAjMoiuf52xyjkNDuVAIG1XRUPIP4EDBdIoJWPdV0veV53tLi1l/+Zo/v+VZb\n6nO0RxGmgv4sNZxcoa9+iEH9Et4N+CEEdpS7JBmcJdhidwHW44sDAYb/OCkLBBh2\ns7oSszsvK/ZTNFkD8LTlSQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "texttospeech@texttospeech-dental.iam.gserviceaccount.com",
+  "client_id": "112581542160157465029",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/texttospeech%40texttospeech-dental.iam.gserviceaccount.com"
+}
